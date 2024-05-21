@@ -1,0 +1,89 @@
+Total unique authors: 88
+Xu, Xuhai: 6
+Shi, Yuanchun: 4
+Bi, Xiaojun: 3
+Mankoff, Jennifer: 3
+Horvitz, Eric: 3
+Zou, Tianyuan: 2
+Wang, Ruolin: 2
+Yan, Yukang: 2
+Yuan, Tianyi: 2
+Wang, Yuntao: 2
+Dey, Anind K: 2
+Wu, Zihan: 1
+Yu, Chun: 1
+Wei, Tong: 1
+Mack, Kelly: 1
+McDonnell, Emma: 1
+Jain, Dhruv: 1
+Lu Wang, Lucy: 1
+E. Froehlich, Jon: 1
+Findlater, Leah: 1
+Lascău, Laura: 1
+Brumby, Duncan P.: 1
+Gould, Sandy J. J.: 1
+Cox, Anna L.: 1
+Zhao, Haixia: 1
+Plaisant, Catherine: 1
+Shneiderman, Ben: 1
+Lazar, Jonathan: 1
+Zhai, Shumin: 1
+Sue, Alison: 1
+Accot, Johnny: 1
+Khanna, Prerna: 1
+Ramakrishnan, Iv: 1
+Jain, Shubham: 1
+Balasubramanian, Aruna: 1
+Lü, Chan: 1
+Ling, Kaiyan: 1
+Zhao, Hang: 1
+Fan, Xiangmin: 1
+Niu, Xiaohui: 1
+Yin, Wenchao: 1
+Liu, Yue: 1
+Wang, Cui: 1
+Sharif, Ather: 1
+Ramesh, Aneesha: 1
+Nguyen, Trung-Anh: 1
+Chen, Luna: 1
+Zeng, Kent Richard: 1
+Hou, Lanqing: 1
+Shi, Haitian: 1
+Yi, Xin: 1
+Liu, WenJia: 1
+Mariakakis, Alex: 1
+Dey, Anind K.: 1
+Li, Jiahao: 1
+He, Liang: 1
+Liu, Xin: 1
+Gong, Jun: 1
+Brum, Carolina: 1
+Liang, Lilian: 1
+Suh, Bongsoo: 1
+Gupta, Shivam Kumar: 1
+Agarwal, Yash: 1
+Lindsey, Laurence: 1
+Kang, Runchang: 1
+Shahsavari, Behrooz: 1
+Nguyen, Tu: 1
+Nieto, Heriberto: 1
+Hudson, Scott E: 1
+Maalouf, Charlie: 1
+Mousavi, Jax Seyed: 1
+Laput, Gierad: 1
+Xiao, Han: 1
+Li, Yanzhang: 1
+Amershi, Saleema: 1
+Weld, Dan: 1
+Vorvoreanu, Mihaela: 1
+Fourney, Adam: 1
+Nushi, Besmira: 1
+Collisson, Penny: 1
+Suh, Jina: 1
+Iqbal, Shamsi: 1
+Bennett, Paul N.: 1
+Inkpen, Kori: 1
+Teevan, Jaime: 1
+Kikin-Gil, Ruth: 1
+Czerwinski, Mary: 1
+Wilhite, Susan: 1
